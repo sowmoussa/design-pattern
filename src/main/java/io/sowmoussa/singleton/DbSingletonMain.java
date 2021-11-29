@@ -7,7 +7,5 @@ public class DbSingletonMain {
 
         DbSingleton anotherInstance = DbSingleton.getInstance();
         System.out.println(anotherInstance);
-
-
     }
 }
